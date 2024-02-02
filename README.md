@@ -1,7 +1,10 @@
 Hello, I’m @SammyML
-I’m interested in Machine and Deep Learning
+I’m interested in Machine and Deep Learning.
+
 I’m currently learning computer science with https://cs50.dev.
+
 I’m looking to collaborate on Machine and Deep Learning  project. 
+
 How to reach me ekumasamuel51@gmail.com or on twitter @sammyekuma 
 
 <!---
